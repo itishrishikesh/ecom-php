@@ -1,3 +1,6 @@
 @extends('master')
 @section('content')
-<h1>Login Page</h1>
+<div class="form">
+
+</div>
+@endsection()
